@@ -1,0 +1,37 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\EDWIN\Documents\NetBeansProjects\MyProjects\Easyllite Enterprise Front Office.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\EDWIN\Documents\NetBeansProjects\MyProjects\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_21
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.007.000_021
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_40\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_40
+Check launcher:	C:\Program Files\Java\jre1.8.0_40\bin\javaw.exe (OK)
+Match:		1.008.000_040
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_21
+Ignore:		1.007.000_021
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_40
+Ignore:		1.008.000_040
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_040 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_40\bin\javaw.exe
+Launcher args:	-jar "C:\Users\EDWIN\Documents\NetBeansProjects\MyProjects\Easyllite Enterprise Front Office.exe"
+Args length:	97/32768 chars
+Exit code:	0
